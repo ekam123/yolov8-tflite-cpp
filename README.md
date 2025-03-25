@@ -11,7 +11,7 @@ Object detection in c++ using the a yolov8 tflite model based on the python impl
 
 OpenCV and Tensorflow
 
-Tested with tflite v2.14 and 
+Tested with tflite v2.14
 
 
 ### Getting Started
