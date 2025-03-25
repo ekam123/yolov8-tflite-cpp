@@ -3,8 +3,8 @@
 ## About The Project
 
 Object detection in c++ using the a yolov8 tflite model based on the python implementation. 
->br>
 <br>
+
 
 
 ## Requirements
