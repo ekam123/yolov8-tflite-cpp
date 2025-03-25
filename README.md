@@ -3,6 +3,8 @@
 ## About The Project
 
 Object detection in c++ using the a yolov8 tflite model based on the python implementation. 
+>br>
+<br>
 
 
 ## Requirements
@@ -26,10 +28,13 @@ Tested with tflite v2.14 and
 3. Run
 ```
 ./Yolov8CppInference
-
 ```
 
+The program outputs the photo with the bounding boxes around the detected objects their ids and score. 
 
+![screenshot](outputs/bus_output.png)
+
+<br>
 
 ## Acknowledgments
 
